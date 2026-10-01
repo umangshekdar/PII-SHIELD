@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary-dark: #0f172a; /* slate-900 */
+  --color-primary: #1e293b; /* slate-800 */
+  --color-accent-light: #10b981; /* emerald-500 */
+  --color-accent: #059669; /* emerald-600 */
+  --color-danger: #ef4444; /* red-500 */
+  --color-warning: #f59e0b; /* amber-500 */
+  --color-safe: #22c55e; /* green-500 */
+  --color-background: #f8fafc; /* slate-50 */
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-primary-dark);
+}
