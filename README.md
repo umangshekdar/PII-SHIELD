@@ -1,3 +1,15 @@
+## 🌐 Live Demo
+
+🔗 **Frontend Application:**  
+https://pii-shield-kappa.vercel.app
+
+⚙️ **Backend API:**  
+https://pii-shield-backend-1p13.onrender.com
+
+📚 **API Documentation:**  
+https://pii-shield-backend-1p13.onrender.com/docs
+
+
 # 🛡️ PII Shield
 
 **"Scan Before You Share."**
